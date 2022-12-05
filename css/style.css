@@ -1,0 +1,28 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container {
+    border-radius: 20px;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    color: #FFF;
+}
+label {
+    font-size: 1.2em;
+}
+input.form-control, select.form-control {
+    border: none;
+    border-radius: 30px;
+    margin-bottom: 15px;
+}
+.btn {
+    border-radius: 30px;
+    border: none;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    transition: 0.8s;
+    color: #FFF;
+}
+.btn:hover {
+    
+}
